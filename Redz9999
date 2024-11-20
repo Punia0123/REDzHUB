@@ -1,0 +1,8 @@
+s=s+0;else s=s+1;end d[s]=0x02;d[d[s]+0x01]=0x03;return d;end)(),...)end)((function(z,s,d,n,e,t)local t;if z<4 then if 2<=z then if-1~=z then for t=19,69 do if 2~=z then do return s(1),s(4,e,n,d,s),s(5,e,n,d)end;break;end;do return 16777216,65536,256 end;break;end;else do return s(1),s(4,e,n,d,s),s(5,e,n,d)end;end else if-3<=z then repeat if z<1 then do return s(1),s(4,e,n,d,s),s(5,e,n,d)end;break;end;do return function(d,s,z)if z then local s=(d/2^(s-1))%2^((z-1)-(s-1)+1);return s-s%1;else local s=2^(s-1);return(d%(s+s)>=s)and 1 or 0;end;end;end;until true;else do return s(1),s(4,e,n,d,s),s(5,e,n,d)end;end end else if z>5 then if 6>=z then do return e[d]end;else if z>=3 then for s=11,54 do if z<8 then do return setmetatable({},{['__\99\97\108\108']=function(s,z,n,e,d)if d then return s[d]elseif e then return s else s[z]=n end end})end break;end;do return d(z,nil,d);end break;end;else do return d(z,nil,d);end end end else if 1<=z then repeat if 4~=z then local z=n;do return function()local s=s(d,z(z,z),z(z,z));z(1);return s;end;end;break;end;local z=n;local t,e,n=e(2);do return function()local s,d,f,l=s(d,z(z,z),z(z,z)+3);z(4);return(l*t)+(f*e)+(d*n)+s;end;end;until true;else local z=n;local e,n,l=e(2);do return function()local t,d,s,f=s(d,z(z,z),z(z,z)+3);z(4);return(f*e)+(s*n)+(d*l)+t;end;end;end end end end),...)
+
+--[[
+Slap no flap na tcheca
+Splash, afogando meu pau na xereca
+Rocket poc, ploc, ploc, ploc
+Pula ni mim, perereca
+]]]
